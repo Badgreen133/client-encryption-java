@@ -130,4 +130,4 @@ public class JweObject {
     public String getAuthTag() {
         return authTag;
     }
-}
+}token_oauth
