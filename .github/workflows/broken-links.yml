@@ -18,3 +18,4 @@ jobs:
           args: -v -r * -x (mvnrepository)
       - name: Fail?
         run: 'exit ${{ steps.lc.outputs.exit_code }}'
+https://sandbox.api.mastercard.com/srci/api/checkout
