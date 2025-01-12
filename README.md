@@ -868,3 +868,4 @@ ApiClient client = new ApiClient("https://sandbox.api.mastercard.com", null, ini
 ServiceApi serviceApi = client.serviceApi();
 // …
 ```
+androidx.room.MultiInstanceInvalidationService
